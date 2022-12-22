@@ -1,0 +1,8 @@
+{
+  "extends": "vazco/typescript",
+  "rules": {
+    "@typescript-eslint/unbound-method": "warn",
+    "@typescript-eslint/no-floating-promises" : "off",
+    "@typescript-eslint/no-misused-promises" : "off"
+  }
+}
